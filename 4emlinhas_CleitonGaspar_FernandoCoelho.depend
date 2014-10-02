@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1373230728 source:e:\dropbox\pasta de trabalhos\algoritmos\4emlinhas_cleitongaspar_fernandocoelho\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcao.h"
+
+1372807438 e:\dropbox\pasta de trabalhos\algoritmos\4emlinhas_cleitongaspar_fernandocoelho\funcoes.h
+
+1372808532 source:e:\dropbox\pasta de trabalhos\algoritmos\4emlinhas_cleitongaspar_fernandocoelho\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
+1373230548 source:e:\dropbox\pasta de trabalhos\algoritmos\4emlinhas_cleitongaspar_fernandocoelho\funcao.c
+	<stdio.h>
+	<stdlib.h>
+	"funcao.h"
+
+1373228010 e:\dropbox\pasta de trabalhos\algoritmos\4emlinhas_cleitongaspar_fernandocoelho\funcao.h
+
